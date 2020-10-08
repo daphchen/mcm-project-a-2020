@@ -1,0 +1,24 @@
+{
+    "id": "6C53AD48",
+    "path": "~/Downloads/mcm_project-master/MCM/bc_herring.r",
+    "project_path": "bc_herring.r",
+    "type": "r_source",
+    "hash": "3911716079",
+    "contents": "",
+    "dirty": false,
+    "created": 1591241162566.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "10,18",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1592255720,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592255720555,
+    "read_only": false,
+    "read_only_alternatives": []
+}
